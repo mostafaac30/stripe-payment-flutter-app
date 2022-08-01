@@ -4,8 +4,7 @@ import 'package:flutter_stripe/flutter_stripe.dart';
 import 'package:http/http.dart' as http;
 
 void main() {
-  Stripe.publishableKey =
-      "pk_test_51Ke4SfLonn4VKBsR1M2cx5g4xes8fiVndQYoV8YZUEda0pcFGo5x9BnCQewdmOiNcQAVIfLFCg1jDi8ay6cpzkx800WLvENefn";
+  Stripe.publishableKey = "";
 
   runApp(const MyApp());
 }
