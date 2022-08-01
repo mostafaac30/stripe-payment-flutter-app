@@ -3,7 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
-## Add-Your-Publishable-Key in top of main.dart.
+## NOTES:
+### Add-Your-Publishable-Key in top of main.dart.
 
 This project is a starting point for a Flutter application.
 
