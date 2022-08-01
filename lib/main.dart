@@ -4,7 +4,8 @@ import 'package:flutter_stripe/flutter_stripe.dart';
 import 'package:http/http.dart' as http;
 
 void main() {
-  Stripe.publishableKey = "";
+  Stripe.publishableKey =
+      "Add your publishable key here"; // Add your publishable key here
 
   runApp(const MyApp());
 }
